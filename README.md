@@ -35,8 +35,7 @@ Android Scheme : com.example.sample://
 ```
 
 ## Installation
-    cordova plugin add https://github.com/nrikiji/cordova-line-login-plugin.git --variable LINE_CHANNEL_ID={your_line_channel_id}
-
+    cordova plugin add https://github.com/nrikiji/cordova-line-login-plugin.git --variable LINE_CHANNEL_ID={your_line_channel_id} --variable LINE_BUNDLE_ID={line3rdp. + YOUR_BUNDLE_ID}
 ## Supported Platforms
 - iOS
 - Android
