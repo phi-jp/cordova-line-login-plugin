@@ -1,0 +1,27 @@
+{
+  "name": "cordova-line-login-plugin",
+  "version": "0.0.2",
+  "description": "cordova-line-login-plugin",
+  "cordova" : {
+    "id": "cordova-line-login-plugin",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi-jp/cordova-line-login-plugin.git"
+  },
+  "author": "phi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phi-jp/cordova-line-login-plugin/issue"
+  },
+  "homepage": "https://github.com/phi-jp/cordova-line-login-plugin#readme"
+}
